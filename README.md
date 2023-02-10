@@ -1,3 +1,4 @@
 # vm-rep
-### 部署到 Replit 👉 [![Run on Replit](https://replit.com/badge/github/alanlichen/dpp-on-repl)](https://replit.com/github/vmhlov/vm-rep/tree/main)
+### 部署到 Replit 👉 [![Run on Replit](https://replit.com/badge/github/alanlichen/dpp-on-repl)](https://replit.com/github/vmhlov/vm-rep/)
+
 
